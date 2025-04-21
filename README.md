@@ -1,5 +1,5 @@
 
-# Welcome Bot for Discord
+# Welcome Bot for Discord Created by Chiran Pathmaperuma 
 
 A simple and customizable bot that welcomes new users to your Discord server. It can send a private welcome message, post a greeting in a designated channel, and assign a specific role to new members.
 
